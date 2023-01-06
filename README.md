@@ -1,5 +1,5 @@
 # merge-together
-I like Strawberry Ice cream
+I like Vanilla Ice cream
 
 
 
