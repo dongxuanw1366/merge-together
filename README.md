@@ -1,2 +1,5 @@
 # merge-together
-I like Vanilla Ice cream
+
+We like Cookies and Creme Ice cream
+
+
